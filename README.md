@@ -1,5 +1,4 @@
-# Challenge-amigo-secreto--Alura-ONE
-Projeto para portifólio.
+# Jogo Amigo Secreto 
 
 # 🎲 Sorteio de Amigos
 
